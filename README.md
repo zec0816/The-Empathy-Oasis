@@ -68,5 +68,5 @@ Here are some future developments we are planning to do:
 6. Make it mobile friendly.
 
 ## Links
-1. Website: http://theempathyoasis.pythonanywhere.com/
-2. Youtube: https://www.youtube.com/watch?v=EJL5dhXKdps
+1. Website: http://theempathyoasis.pythonanywhere.com/ 
+2. Youtube: https://www.youtube.com/watch?v=EJL5dhXKdps (A brief intro on the features of the website)
